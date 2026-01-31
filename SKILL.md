@@ -1,3 +1,7 @@
+---
+name: Awesome Skills Collection
+---
+
 # Awesome Claude Skills (for Manus)
 
 ## Skill: Summarize a YouTube video
